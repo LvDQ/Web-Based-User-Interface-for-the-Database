@@ -26,4 +26,4 @@ Localhost `2.4.23 Apache HTTP Server` in Wampserver64
 
 Of course lots of more!
 
-But this only costs me 2~3 days! 
+But this only costs me 2~3 days as a beginner! 
