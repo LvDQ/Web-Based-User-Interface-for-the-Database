@@ -2,7 +2,7 @@
 
 ## Report and Effects
 
-Please move to report: [Outdoor Website Design Report](./Outdoor Website Design Report.pdf)
+Please move to report: [Outdoor-Website-Design-Report](./Outdoor-Website-Design-Report.pdf)
 
 ## Recurrency
 ### Server
